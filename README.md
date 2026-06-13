@@ -145,7 +145,3 @@ JSON Response
 - Google (2024, 2025)
 - Microsoft (2024, 2025)
 - Tesla (2024, 2025)
-Sauvegarde puis push :
-bashgit add README.md
-git commit -m "Add README"
-git push
