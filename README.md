@@ -1,4 +1,9 @@
-# Multi-Modal Financial AI Agent
+# 📊 Multi-Modal Financial AI Agent
+
+## 🎥 Demo Video
+[Watch the demo on Loom](https://www.loom.com/share/a14a0fb6c9574bcaa977a467c2a7ba1e)
+
+An AI agent that answers...
 
 An AI agent that answers complex business questions about major tech companies by combining SQL queries on structured financial data and semantic search on annual reports (10-K).
 
