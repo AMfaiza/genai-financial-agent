@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+langchain
+langchain-groq
+langchain-community
+langgraph
+qdrant-client
+sentence-transformers
+pymupdf
+python-docx
+groq
+openai
+instructor
+pydantic
+python-dotenv
+eval-type-backport
